@@ -15,3 +15,6 @@ def square(x):
 
 def x_to_the_y(x, y):
     return x ** y
+
+def x_to_the_yth_root(x, y):
+    return x ** (1/y)
