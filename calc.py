@@ -18,3 +18,6 @@ def x_to_the_y(x, y):
 
 def square_root(x):
 	return x ** (1/2)
+
+def x_to_the_yth_root(x, y):
+	return x ** (1/y)
