@@ -16,4 +16,5 @@ def square(x):
 def x_to_the_y(x, y):
     return x ** y
 
-"this is a change"
+def square_root(x):
+	return x ** (1/2)
